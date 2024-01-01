@@ -31,6 +31,7 @@
 
 # Univariate Analysis on Categorical data
 --> Whenever we are doing analysis on the categorical data we will use & undergo with two techniques.
+
                                  1) countplots
 
                                  2) pie charts
