@@ -108,7 +108,7 @@
 
 --> Median data lies between Q1 and Q3.
 
---> InterQuartile Range consist of Q1 , Q2 and Median 
+--> InterQuartile Range consist of Q1 , Q3 and Median 
 
 --> To calculate the Interquartile range formula in box plot is 
 
